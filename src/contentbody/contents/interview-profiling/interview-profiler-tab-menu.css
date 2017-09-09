@@ -1,0 +1,29 @@
+.interview-profiler-tab-menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.interview-profiler-tab-menu li {
+  display: inline-block;
+  border-style: solid;
+}
+
+li.margin-left {
+    margin-left: 20px;
+}
+
+.interview-profiler-tab-menu li a{
+  display: block;
+  color: #333;
+  padding: 11px 16px;
+  text-decoration: none;
+}
+
+.interview-profiler-tab-menu li a:focus{
+  color: red;
+}
+
+.interview-profiler-tab-menu input {
+  text-align: center;
+}

@@ -1,0 +1,21 @@
+.interviewee-class {
+  border-style: solid;
+  border-width: 3px;
+  text-align: center;
+}
+
+.interviewee-class select {
+  margin-top: 30px;
+  margin-bottom: 70px;
+  width: 250px;
+}
+
+.interviewee-class table {
+  text-align: left;
+  width: 100%;
+}
+
+.interviewee-class table th{
+    margin: 0;
+    border-style: solid;
+}

@@ -1,0 +1,17 @@
+html, body, .main-class {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  background-color: #ffffff;
+}
+
+body {
+  overflow: hidden;
+}
+
+.main-class {
+  display: flex;
+  flex-direction: column;
+}
