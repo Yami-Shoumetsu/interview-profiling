@@ -7,24 +7,13 @@ class ScheduleInterview extends React.Component{
 		let date = new Date();
     return (
       <div className="schedule-interview-class">
-        <table>
-					<tbody>
-						<tr>
-							<td>Choose Date and Time:</td>
-							<td><Datetime closeOnSelect={true}/></td>
-						</tr>
-						<tr>
-							<td>Select Expertise:</td>
-							<td>
-								<select>
-									<option value="Java.Core">Java Core</option>
-									<option value="Java.Core">Java WebServices</option>
-									<option value="Java.Core">BBSI</option>
-								</select>
-							</td>
-						</tr>
-					</tbody>
-        </table>
+				<select>
+					<option value="Java.Core">Java Core</option>
+					<option value="Java.Core">Java WebServices</option>
+					<option value="Java.Core">BBSI</option>
+				</select>
+				<br/>
+        Choose Date and Time: <Datetime closeOnSelect={true}/>
       </div>
     );
   }

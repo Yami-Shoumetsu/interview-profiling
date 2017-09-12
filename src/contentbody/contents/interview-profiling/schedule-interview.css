@@ -2,30 +2,14 @@
   border-style: solid;
   border-width: 3px;
   text-align: center;
-}
-
-.schedule-interview-class table {
-  margin-top: 30px;
-  width: 100%;
-}
-.schedule-interview-class table td {
-  vertical-align:bottom;
-  width: 50%;
-  padding-left: 60px;
-}
-
-.schedule-interview-class table td:nth-of-type(1) {
-  text-align: right;
-}
-
-.schedule-interview-class table td:nth-of-type(2) {
-  text-align: left;
+  height: 100%;
 }
 
 .schedule-interview-class select {
-  width: 300px;
+  margin-top: 30px;
+  margin-bottom: 70px;
+  width: 250px;
 }
-
 
 /* This is just to make the input element more visible */
 input {
@@ -43,6 +27,8 @@ input {
 .rdtPicker {
   display: none;
   position: absolute;
+  left: 50%;
+  width: 250px;
   padding: 4px;
   margin-top: 1px;
   z-index: 99999 !important;

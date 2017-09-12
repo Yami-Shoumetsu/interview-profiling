@@ -34,10 +34,9 @@ class Interviewee extends React.Component{
           <thead>
             <tr>
               <th>Interviewee's Name</th>
-              <th>Available Day/s</th>
-              <th>Available Time</th>
+              <th>Source</th>
               <th>Contact Number</th>
-              <th>Status</th>
+              <th>Overall Status</th>
             </tr>
           </thead>
 					<tbody>

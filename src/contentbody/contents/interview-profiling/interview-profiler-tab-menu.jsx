@@ -9,7 +9,7 @@ class InterviewProfilerTabMenu extends React.Component{
 				<ul>
 					<li><IndexLink to="/">Interviewer</IndexLink></li>
 					<li className="margin-left" ><Link to="/interviewee">Interviewee</Link></li>
-					<li className="margin-left" ><a href="#">Interview</a></li>
+					<li className="margin-left" ><Link to="/interview">Interview</Link></li>
 					<li className="margin-left" ><Link to="/schedule-interview">Schedule an Interview</Link></li>
 				</ul>
       </div>

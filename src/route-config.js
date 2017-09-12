@@ -8,6 +8,7 @@ import App from './app';
 import IntervewProfilerHolder from './contentbody/contents/interview-profiling/interview-profiler-holder';
 import Interviewer from './contentbody/contents/interview-profiling/interviewer';
 import Interviewee from './contentbody/contents/interview-profiling/interviewee';
+import Interview from './contentbody/contents/interview-profiling/interview';
 import ScheduleInterview from './contentbody/contents/interview-profiling/schedule-interview';
 
 export default (
@@ -15,6 +16,7 @@ export default (
 		<Route component={IntervewProfilerHolder}>
 			<IndexRoute component={Interviewer}/>
 			<Route path="/interviewee" component={Interviewee}/>
+			<Route path="/interview" component={Interview}/>
 			<Route path="/schedule-interview" component={ScheduleInterview}/>
 		</Route>
 	</Route>
