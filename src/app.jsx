@@ -2,10 +2,10 @@ import React from 'react';
 import './app.css';
 
 // Import Internal Components
-import Header from "./header/header.jsx";
-import MenuBar from "./menubar/menubar.jsx";
-import ContentBody from "./contentbody/content-body.jsx";
-import Footer from "./footer/footer.jsx";
+import Header from "./components/header/header.jsx";
+import MenuBar from "./components/menubar/menubar.jsx";
+import ContentBody from "./components/contentbody/content-body.jsx";
+import Footer from "./components/footer/footer.jsx";
 
 class App extends React.Component {
   render() {

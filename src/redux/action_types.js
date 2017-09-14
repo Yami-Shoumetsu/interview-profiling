@@ -1,0 +1,20 @@
+/**
+ *
+ * Contains the list of action types
+ *
+ */
+
+
+/**
+ * REST service related action types
+ */
+
+/*Expertises*/
+export const REQUEST_EXPERTISES = 'REQUEST_EXPERTISES';
+export const REQUEST_EXPERTISES_SUCCESS = 'REQUEST_EXPERTISES_SUCCESS';
+export const REQUEST_EXPERTISES_FAILED = 'REQUEST_EXPERTISES_FAILED';
+
+/*Interviewees*/
+export const REQUEST_INTERVIEWEES = 'REQUEST_INTERVIEWEES';
+export const REQUEST_INTERVIEWEES_SUCCESS = 'REQUEST_INTERVIEWEES_SUCCESS';
+export const REQUEST_INTERVIEWEES_FAILED = 'REQUEST_INTERVIEWEES_FAILED';

@@ -1,5 +1,6 @@
 import React from 'react';
 import './interviewer.css';
+import Expertise from './expertise';
 
 const DUMMY_INTERVIEWERS = {
 	interviewer_name : 'Interviewer Name',
@@ -25,11 +26,7 @@ class Interviewer extends React.Component{
 
     return (
       <div className="interviewer-class">
-      <select>
-        <option value="Java.Core">Java Core</option>
-        <option value="Java.Core">Java WebServices</option>
-        <option value="Java.Core">BBSI</option>
-      </select>
+				<Expertise/>
         <table>
           <thead>
             <tr>

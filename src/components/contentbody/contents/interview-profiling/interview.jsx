@@ -1,15 +1,12 @@
 import React from 'react';
 import './interview.css';
+import Expertise from './expertise';
 
 class Interview extends React.Component{
   render() {
     return (
       <div className="interview-class">
-				<select>
-					<option value="Java.Core">Java Core</option>
-					<option value="Java.Core">Java WebServices</option>
-					<option value="Java.Core">BBSI</option>
-				</select>
+				<Expertise/>
 				<br/>
 				<a href="#">File Link of Interview Questions</a>
 				<br/>
@@ -21,7 +18,7 @@ class Interview extends React.Component{
 				Additional notes:
 				<br/>
 				<br/>
-				<textarea>Passing this candidate . ......</textarea>
+				<textarea defaultValue="Passing this candidate . ......"/>
 				<br/>
 				<br/>
 				<input type="submit" value="Send Interview Report"/>
