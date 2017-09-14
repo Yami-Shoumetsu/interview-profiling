@@ -13,8 +13,8 @@ lib-cov
 # Coverage directory used by tools like istanbul
 coverage
 
-# Jest Clutter
-__snapshots__
+# Webstorm
+.idea
 
 # Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt

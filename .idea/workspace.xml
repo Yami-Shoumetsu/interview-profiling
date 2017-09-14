@@ -2,33 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f47c8335-6897-414e-99c3-b587e350ca11" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/__tests__/app.test.jsx" afterPath="$PROJECT_DIR$/src/tests/app.test.jsx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/contentbody/content-body.css" afterPath="$PROJECT_DIR$/src/components/contentbody/content-body.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/contentbody/content-body.jsx" afterPath="$PROJECT_DIR$/src/components/contentbody/content-body.jsx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/contentbody/contents/interview-profiling/interview-profiler-holder.css" afterPath="$PROJECT_DIR$/src/components/contentbody/contents/interview-profiling/interview-profiler-holder.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/contentbody/contents/interview-profiling/interview-profiler-holder.jsx" afterPath="$PROJECT_DIR$/src/components/contentbody/contents/interview-profiling/interview-profiler-holder.jsx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/contentbody/contents/interview-profiling/interview-profiler-tab-menu.css" afterPath="$PROJECT_DIR$/src/components/contentbody/contents/interview-profiling/interview-profiler-tab-menu.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/contentbody/contents/interview-profiling/interview-profiler-tab-menu.jsx" afterPath="$PROJECT_DIR$/src/components/contentbody/contents/interview-profiling/interview-profiler-tab-menu.jsx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/contentbody/contents/interview-profiling/interview.css" afterPath="$PROJECT_DIR$/src/components/contentbody/contents/interview-profiling/interview.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/contentbody/contents/interview-profiling/interview.jsx" afterPath="$PROJECT_DIR$/src/components/contentbody/contents/interview-profiling/interview.jsx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/contentbody/contents/interview-profiling/interviewee.css" afterPath="$PROJECT_DIR$/src/components/contentbody/contents/interview-profiling/interviewee.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/contentbody/contents/interview-profiling/interviewee.jsx" afterPath="$PROJECT_DIR$/src/components/contentbody/contents/interview-profiling/interviewee.jsx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/contentbody/contents/interview-profiling/interviewer.css" afterPath="$PROJECT_DIR$/src/components/contentbody/contents/interview-profiling/interviewer.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/contentbody/contents/interview-profiling/interviewer.jsx" afterPath="$PROJECT_DIR$/src/components/contentbody/contents/interview-profiling/interviewer.jsx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/contentbody/contents/interview-profiling/schedule-interview.css" afterPath="$PROJECT_DIR$/src/components/contentbody/contents/interview-profiling/schedule-interview.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/contentbody/contents/interview-profiling/schedule-interview.jsx" afterPath="$PROJECT_DIR$/src/components/contentbody/contents/interview-profiling/schedule-interview.jsx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/footer/footer.css" afterPath="$PROJECT_DIR$/src/components/footer/footer.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/footer/footer.jsx" afterPath="$PROJECT_DIR$/src/components/footer/footer.jsx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/header/header.css" afterPath="$PROJECT_DIR$/src/components/header/header.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/header/header.jsx" afterPath="$PROJECT_DIR$/src/components/header/header.jsx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/menubar/menubar.css" afterPath="$PROJECT_DIR$/src/components/menubar/menubar.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/menubar/menubar.jsx" afterPath="$PROJECT_DIR$/src/components/menubar/menubar.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.babelrc" afterPath="$PROJECT_DIR$/.babelrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app.jsx" afterPath="$PROJECT_DIR$/src/app.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main.jsx" afterPath="$PROJECT_DIR$/src/main.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/route-config.js" afterPath="$PROJECT_DIR$/src/route-config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config.js" afterPath="$PROJECT_DIR$/webpack.config.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -55,7 +32,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="interview.jsx" pinned="false" current-in-tab="true">
+      <file leaf-file-name="interview.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/contentbody/contents/interview-profiling/interview.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
@@ -63,6 +40,36 @@
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -88,26 +95,6 @@
                 <element signature="e#0#26#0" expanded="true" />
                 <element signature="e#81#117#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="action_types.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/redux/action_types.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="14" column="60" lean-forward="false" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fetch_expertises.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/redux/actions/rest_service_actions/fetch_expertises.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="109" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="109" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -142,16 +129,6 @@
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="interviewer.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/contentbody/contents/interview-profiling/interviewer.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="36" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -191,7 +168,6 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/template.html" />
         <option value="$PROJECT_DIR$/src/header/header.jsx" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/contentbody/content-body.css" />
         <option value="$PROJECT_DIR$/src/contentbody/contents/interview-profiling/interview-profiler-holder.css" />
         <option value="$PROJECT_DIR$/src/contentbody/contents/interview-profiling/interviewer.css" />
@@ -210,7 +186,6 @@
         <option value="$PROJECT_DIR$/src/redux/reducers/rest_service_reducers/interviewees_reducer.js" />
         <option value="$PROJECT_DIR$/src/main.jsx" />
         <option value="$PROJECT_DIR$/.babelrc" />
-        <option value="$PROJECT_DIR$/webpack.config.js" />
         <option value="$PROJECT_DIR$/src/components/contentbody/contents/interview-profiling/interviewer.css" />
         <option value="$PROJECT_DIR$/src/components/contentbody/contents/interview-profiling/expertise.css" />
         <option value="$PROJECT_DIR$/src/components/contentbody/contents/interview-profiling/interviewer.jsx" />
@@ -223,6 +198,9 @@
         <option value="$PROJECT_DIR$/src/redux/reducers/index.js" />
         <option value="$PROJECT_DIR$/src/components/contentbody/contents/interview-profiling/expertise.jsx" />
         <option value="$PROJECT_DIR$/src/components/contentbody/contents/interview-profiling/interview.jsx" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -421,12 +399,12 @@
       <updated>1504957355367</updated>
       <workItem from="1504957360374" duration="24306000" />
       <workItem from="1505168774528" duration="3894000" />
-      <workItem from="1505411120741" duration="5500000" />
+      <workItem from="1505411120741" duration="6060000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33700000" />
+    <option name="totallyTimeSpent" value="34260000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -518,13 +496,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/haha.js" />
     <entry file="file://$PROJECT_DIR$/hahah2.js" />
     <entry file="file://$PROJECT_DIR$/hahaha3.js" />
@@ -588,13 +559,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CODE_OF_CONDUCT.md" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="40" lean-forward="false" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/contentbody/content-body.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -741,14 +705,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="33" column="23" lean-forward="true" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/contentbody/contents/interview-profiling/interviewer.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -856,6 +812,30 @@
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

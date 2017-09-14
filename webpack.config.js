@@ -22,7 +22,7 @@ let config = {
 		bail : prod ? true : false,
 		context : __dirname,
 		devServer : {
-			port : 8093,
+			port : 8080,
 			hot : hotLoading,
 			inline : true,
 			contentBase : appRoot + path.sep + 'dist',
